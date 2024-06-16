@@ -1,0 +1,45 @@
+{
+    "title": "Arism Lab",
+    "headerTitle": "Arism Lab - Power Your Future",
+    "description": "We bring a new transparent world by developing cutting-edge web3 applications 🚀",
+    "language": "en-us",
+    "locale": "en-US",
+    "theme": "system",
+    "siteUrl": "https://arism.org",
+    "siteRepo": "https://github.com/ArismLab/arism-homepage",
+    "siteLogo": "/static/logo.png",
+    "siteBanner": "/static/banner.png",
+    "externalLinks": [
+        {
+            "name": "Blog",
+            "url": "https://blog.arism.org"
+        },
+        {
+            "name": "Wallet",
+            "url": "https://app.arism.org"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/ArismLab/"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ArismLab"
+        },
+        {
+            "name": "Email",
+            "url": "mailto:support@arism.org"
+        }
+    ],
+    "internalLinks": [
+        {
+            "title": "Homepage",
+            "path": "/",
+            "description": "A Distributed Key and Identifier Management Protocol powered by Zero Knowledge."
+        }
+    ],
+    "analytics": {
+        "umamiWebsiteId": "b018c634-3134-4965-ac2f-8b3a89c32e40",
+        "googleAnalyticsId": "G-V2EES3R603"
+    }
+}
